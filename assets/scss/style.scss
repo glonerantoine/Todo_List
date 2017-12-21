@@ -1,0 +1,46 @@
+body{
+	background-color: red;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1{
+	background-position: center;
+	display: flex;
+		justify-content: center;
+
+}
+
+.button{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	
+
+}
+
+.First{
+	background-color: blue;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	}
+
+.box{
+	background-color: purple;
+}
+
+.boxtodo{
+	background-color: yellow;
+	
+	
+}
+
+.boxfilters{
+	background-color: green;
+
+
+}
+
+.barre{
+	text-decoration:line-through;
+}
